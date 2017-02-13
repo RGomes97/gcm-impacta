@@ -1,1 +1,1 @@
-# gcm-impacta
+# Gestão de Configuração e Mudanças
