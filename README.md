@@ -1,7 +1,14 @@
-# Gestão de Configuração e Mudanças
+# Aula 6 de GCM
 
-Objetivos
-* Criar uma conta em um serviço de hospedagem de código-fonte.
-* Criar um projeto
-* Editar um arquivo deste projeto.
+Ferramentas de controle de versão
 
+* RCS
+* Perforce
+* CVS
+* Source Safe
+* Bazaar
+* Clear Case
+* SVN
+* Mercurial 
+* Git
+* Visual Studio Team Services
