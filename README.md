@@ -5,3 +5,5 @@ Objetivos
 * Criar um projeto
 * Editar um arquivo deste projeto.
 
+# Exercicios
+Os exercicios estão organizados em branchs.
